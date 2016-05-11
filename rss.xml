@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[TGreen]]></title>
         <description><![CDATA[TGreen]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tgreen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 18:17:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 11 May 2016 18:28:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tgreen/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Thom Green,</p>]]></description>
-            <link>undefinedthom-green/index.html</link>
+            <link>https://thegrid.ai/tgreen/thom-green/index.html</link>
             <guid isPermaLink="false">064346b3-f240-4416-9c0d-9676687e2046</guid>
-            <pubDate>Wed, 11 May 2016 18:17:06 GMT</pubDate>
+            <pubDate>Wed, 11 May 2016 18:28:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
