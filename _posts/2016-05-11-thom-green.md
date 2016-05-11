@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Thom Green,'
-datePublished: '2016-05-11T18:17:06.701Z'
-dateModified: '2016-05-11T18:17:01.286Z'
+datePublished: '2016-05-11T18:28:12.582Z'
+dateModified: '2016-05-11T18:17:14.412Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-11-thom-green.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-11-thom-green.md
 url: thom-green/index.html
 _type: Article
 
