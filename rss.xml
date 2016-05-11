@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TGreen]]></title>
+        <description><![CDATA[TGreen]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 11 May 2016 18:17:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Thom Green,</p>]]></description>
+            <link>undefinedthom-green/index.html</link>
+            <guid isPermaLink="false">064346b3-f240-4416-9c0d-9676687e2046</guid>
+            <pubDate>Wed, 11 May 2016 18:17:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
